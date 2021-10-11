@@ -149,16 +149,15 @@ h1{
     text-align: center;
     font-weight: 500;
     line-height: 25px;
-    margin-left: 220px;
-    
 }
 
-.choose1{
-    margin-left: 220px;
-}
 
 .choose{
     background-color: rgb(28, 0, 128);
+}
+
+.cs{
+    margin-left: 220px;
 }
 
 .foot{
